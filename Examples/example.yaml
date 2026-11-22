@@ -1,0 +1,6 @@
+service:
+  name: 示例服务
+  enabled: true
+  ports:
+    - 8080
+    - 8443
